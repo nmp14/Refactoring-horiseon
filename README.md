@@ -4,3 +4,4 @@ Refactor code for a webpage to increase accessiblility as well as reorginizing t
 
 Webpage for Horiseon homepage describing the benifits for search engine optimaization (SEO).
 
+![Horiseon Page](/assets/images/Horiseon.png)
