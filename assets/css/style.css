@@ -56,6 +56,9 @@ p {
     font-size: 16px;
 }
 
+
+/* Container for main horizontal sections (SEO, online reputation management, social media marketing) */
+
 .content {
     width: 75%;
     display: inline-block;
@@ -137,6 +140,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* container for vertical secontion on right. Contains sections: lead generations, brand awareness, cost management. */
 
 .benefits {
     margin-right: 20px;
