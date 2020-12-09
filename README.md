@@ -7,12 +7,13 @@ The refactored site is a Webpage for the Horiseon homepage describing the benifi
 To refactor the site, old html tags consisting of divs with classes were changed to more semantically descriptive tags and the CSS selectors connected with them. Changed following tags and their selectors:
     -header
     -nav
-    -sections
+    -article
+    -aside
     -footer
 
 First nav link was repaired to correctly point to intended destination.
 
-CSS file was condensed from 200 lines to 153 lines by removing redundant sections as well as combining a few classes, which all had the same properties, into one single class.
+CSS file was condensed from 200 lines to 153, while adding comments, lines by removing redundant sections as well as combining a few classes, which all had the same properties, into one single class.
 
 Added comments to HTML and CSS.
 
