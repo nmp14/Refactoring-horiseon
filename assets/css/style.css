@@ -112,9 +112,9 @@ p {
 }
 
 
-/* container for vertical secontion on right. Contains sections: lead generations, brand awareness, cost management. */
+/* Container for vertical secontion on right. Contains the benefit sections */
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
