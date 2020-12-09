@@ -74,7 +74,7 @@ p {
 
 /* Container for main horizontal sections (SEO, online reputation management, social media marketing) */
 
-.content {
+article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
