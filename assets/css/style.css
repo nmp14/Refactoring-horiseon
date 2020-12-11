@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+.gill-sans {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 /* Style the Horiseon logo in the header (top left) */
 
@@ -27,14 +30,12 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-
 /* Container for ul containing navigation elements in the header. */
 
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -46,7 +47,6 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
 
 /* Remove underline in anchor tags */
 
@@ -71,7 +71,6 @@ p {
     background-position: center;
 }
 
-
 /* Container for main horizontal sections (SEO, online reputation management, social media marketing) */
 
 main {
@@ -90,14 +89,12 @@ main {
     margin-left: 25px;
 }
 
-
 /* Article sections for SOE, online rep management, social media marketing. */
 
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -111,7 +108,6 @@ main {
     font-size: 36px;
 }
 
-
 /* Container for vertical secontion on right. Contains the benefit sections */
 
 aside {
@@ -121,7 +117,6 @@ aside {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
